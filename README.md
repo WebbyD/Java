@@ -1,2 +1,2 @@
 # Java
-Files written in Java. 
+Applications coded in Java. Enjoy!!! 
